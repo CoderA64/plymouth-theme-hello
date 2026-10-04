@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=plymouth-theme-hello
+Description=This is a Plymouth theme that displays a "Hello!" message.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hello-screen
+ScriptFile=/usr/share/plymouth/themes/hello-screen/hello-screen.script
